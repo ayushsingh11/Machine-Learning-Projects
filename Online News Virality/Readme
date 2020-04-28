@@ -2,6 +2,6 @@ This folder contains google colab files for finding a measure of online news vir
 
 Crawler.ipynb takes out data from any given url using newspaper3k library.
 
-Predict.ipynb predicts the virality of a url in terms of its number of shares. UCI Dataset available over [here](https://docs.google.com/spreadsheets/d/1Z-DaEACTtSs0fki24ij9Xji_MSha5TiO_4Tz4lIbQdk/edit?usp=sharing) is used for making the prediction.
+Predict.ipynb predicts the virality of a url in terms of its number of shares. UCI Dataset is used for making the prediction.
 
-[GitHub Pages](https://pages.github.com/)
+UCI Dataset - https://docs.google.com/spreadsheets/d/1Z-DaEACTtSs0fki24ij9Xji_MSha5TiO_4Tz4lIbQdk/edit?usp=sharing
